@@ -1,0 +1,5 @@
+build/
+voicevox_core/
+*.wav
+download
+simple_tts
